@@ -1,0 +1,12 @@
+PUT https://10.2.210.102:31943/rest/plat/smapp/v1/sessions HTTP/1.1
+Accept:application/json
+Content-Type:application/json
+
+{
+ "authCredit": {
+  "grantType": "password",
+  "userName": "cti22460",
+  "value": "Cam3bi5o7.",
+  "organizationName": ""
+ }
+}

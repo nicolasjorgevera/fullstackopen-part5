@@ -1,0 +1,10 @@
+POST  http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkZyZWR5IiwiaWQiOiI2MzY0ZjAzNDhmN2I1OGYyNWJkN2Y1YmYiLCJpYXQiOjE2Njc1NTk1MDR9.JB6MrjQPMW2Pc07PPJ6yziUM1dlZv9hM2dlPQ6m1O9w
+
+{
+    "title": "Prueba12",
+    "author": "autor 12",
+    "url": "localhost12",
+    "likes": 12
+}
